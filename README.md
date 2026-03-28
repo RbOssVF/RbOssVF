@@ -1,15 +1,43 @@
 ## Hola, soy Ribin 👋
 
-Soy ingeniero de software con experiencia desarrollando aplicaciones web y APIs enfocadas en backend, cuidando la estructura del código, la arquitectura y la escalabilidad de los sistemas.
+Soy ingeniero de software enfocado en el desarrollo de sistemas backend escalables y aplicaciones web modernas. Mi principal fortaleza es **Node.js**, donde aplico principios de **arquitectura limpia** para construir APIs robustas, mantenibles y eficientes.
 
-Trabajo principalmente con Python usando Django y FastAPI, y tengo experiencia integrando frontend con tecnologías como React, Angular y Vue. Me interesa construir soluciones bien pensadas, con buenas prácticas de seguridad, tareas asíncronas y despliegues dockerizados.
+Tengo experiencia desarrollando soluciones fullstack utilizando tecnologías como **NestJS, Express, Next.js, React y TypeScript**, además de trabajar con Python (Django, FastAPI) en distintos proyectos.
 
-Disfruto diseñar sistemas claros y mantenibles, resolver problemas técnicos y seguir aprendiendo constantemente sobre arquitectura y desarrollo backend.
+También cuento con experiencia en despliegue y manejo de infraestructura, utilizando herramientas como **Docker, Nginx y Cloudflare**, lo que me permite llevar aplicaciones desde el desarrollo hasta producción.
 
-### 🧩 Tecnologías con las que trabajo
-Python · Django · FastAPI · APIs REST · PostgreSQL · SQL Server · Docker · Celery · Redis · JavaScript · TypeScript · React · Angular · Vue · Linux
+Me enfoco en escribir código limpio, optimizar rendimiento y diseñar sistemas bien estructurados.
+
+---
+
+### 🧩 Tecnologías principales
+
+**Backend:**
+Node.js · NestJS · Express · Python · Django · FastAPI  
+
+**Frontend:**
+React · Next.js · Angular · TypeScript · JavaScript  
+
+**Arquitectura:**
+Clean Architecture · APIs REST · Sistemas escalables  
+
+**DevOps:**
+Docker · Docker Compose · Nginx · Cloudflare · Linux  
+
+**Bases de datos:**
+PostgreSQL · SQL Server · Redis  
+
+---
 
 ### 🚀 Qué encontrarás en mis repositorios
-Proyectos enfocados en backend, autenticación y autorización, arquitectura limpia, microservicios pequeños pero bien estructurados y soluciones pensadas para escenarios reales.
 
-Actualmente desarrollo proyectos personales y empresariales para reforzar buenas prácticas de arquitectura y compartir aprendizajes a través de GitHub.
+- APIs REST bien estructuradas con Node.js y Python  
+- Implementaciones de **arquitectura limpia**  
+- Sistemas de autenticación y autorización  
+- Proyectos fullstack con Next.js y React  
+- Ejemplos de despliegue con Docker y configuración de servidores  
+- Soluciones pensadas para escenarios reales  
+
+---
+
+Actualmente desarrollo proyectos personales y profesionales enfocados en mejorar la arquitectura, el rendimiento y la escalabilidad de aplicaciones modernas.
